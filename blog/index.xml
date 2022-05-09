@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Wall Blog | Keep Going </title>
+    <link>https://mantingxu.github.io/blog/</link>
+    <description>Recent content in Blogs on Wall Blog | Keep Going </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 08 May 2022 10:12:07 +0800</lastBuildDate><atom:link href="https://mantingxu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Hugo shortcodes</title>
+      <link>https://mantingxu.github.io/blog/hugo-shortcodes/</link>
+      <pubDate>Sun, 08 May 2022 10:12:07 +0800</pubDate>
+      
+      <guid>https://mantingxu.github.io/blog/hugo-shortcodes/</guid>
+      <description>Example for Hugo shortcodes Youtube   Twitter KLAY WITH THE RUNNER FROM DEEP 😱</description>
+    </item>
+    
+    <item>
+      <title>My First Markdown</title>
+      <link>https://mantingxu.github.io/blog/test/</link>
+      <pubDate>Sun, 08 May 2022 09:57:07 +0800</pubDate>
+      
+      <guid>https://mantingxu.github.io/blog/test/</guid>
+      <description>This is my first markdown  How to use Markdown</description>
+    </item>
+    
+  </channel>
+</rss>
